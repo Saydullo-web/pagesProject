@@ -1,0 +1,2 @@
+# pagesproject
+pages loyihasi
